@@ -1,1 +1,2 @@
-prints the system's kernel name
+$ uname
+Linux
